@@ -1,0 +1,78 @@
+{
+  "students": [
+    {
+      "name": "Ali",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Kim",
+      "location": "india",
+      "phone": "98876543213",
+      "courses": [
+        "python",
+        "appium"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Smith",
+      "location": "Canada",
+      "phone": "165498765",
+      "courses": [
+        "C#",
+        "RestAPI"
+      ]
+    },
+    {
+      "name": "Usman",
+      "location": "Pakistan",
+      "phone": "1234567890",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "_59R-EY"
+    },
+    {
+      "name": "Usman",
+      "location": "Pakistan",
+      "phone": "1234567890",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "gfcX38Y"
+    },
+    {
+      "name": "Usman",
+      "location": "Pakistan",
+      "phone": "1234567890",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "d4ANk5M"
+    },
+    {
+      "name": "Usman",
+      "location": "Pakistan",
+      "phone": "1234567890",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "mHGbmmi"
+    },
+    {
+      "name": "Urooj",
+      "location": "Pakistan",
+      "phone": "1234567890",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": "EESpyWo"
+    }
+  ]
+}
